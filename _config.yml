@@ -1,7 +1,7 @@
 name: Seventy74 - 01
 favicon: null
-layout_spectrum: 0.013004968175664544
-typography_spectrum: 0.586732278810814
+layout_spectrum: 0.13090692623518407
+typography_spectrum: 0.29900619527325034
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.33840291830711067
-  lightness: 0.6401744086761028
-  saturation: 0.8702620090916753
-  rhythmicContrast: 0.33926503104157746
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.589901611674577
+  lightness: 0.13468422438018024
+  saturation: 0.06381216156296432
+  rhythmicContrast: 0.8000932910945266
 purpose: []
